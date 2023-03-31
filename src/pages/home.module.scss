@@ -7,6 +7,10 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+
+    img {
+        height: 80%;
+    }
 }
 
 .hero {
@@ -18,7 +22,7 @@
     }
 
     h1{
-        font-size: 4rem;
+        font-size: 3.5rem;
         font-weight: 700;
         line-height: 4.5rem;
     }
@@ -29,7 +33,7 @@
     }
 
     p {
-        font-size: 1.5rem;
+        font-size: 1.30rem;
         line-height: 2.25rem;
         margin-top: 1.5rem;
 
