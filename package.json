@@ -9,21 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@types/react-dom": "18.0.11",
+    "@types/react-dom": "17.0.2",
     "@types/stripe": "^8.0.417",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
-    "next": "13.2.4",
-    "next-auth": "^3.13.2",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "next": "12.2",
+    "next-auth": "^3.13.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-icons": "^4.8.0",
     "sass": "^1.60.0",
     "stripe": "^11.16.0"
   },
   "devDependencies": {
     "@types/node": "^18.15.5",
-    "@types/react": "^18.0.1",
+    "@types/react": "^17.0.3",
     "typescript": "^5.0.2"
   }
 }
